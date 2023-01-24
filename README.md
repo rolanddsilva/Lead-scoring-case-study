@@ -26,7 +26,8 @@ Prediction on test set <br>
 Observations/Recommendations 
 
 
-### Details of files given
+### Details of files given:
+---
 Lead_Scoring_Case_Study.ipynb : Python file with codes and analysis <br>
 Lead scoring case study subjective questions.pdf : Answers to the subjective questions <br>
 Lead Scoring Assignment_Presentation.pdf : Presentation <br>
