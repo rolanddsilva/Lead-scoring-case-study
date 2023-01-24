@@ -4,12 +4,13 @@
 ---
 X Education is an Education company that would like to increase its lead conversion rate higher than its current level which is 30% by filtering out its leads to find those with high potential.
 
+<br><br>
+
 ### Business Goal:
 ---
 To find factors which would suffice the company’s objective of identifying potential leads and their sources to increase their lead conversion, thereby adding to their overall revenue. 
 
-<br><br><br>
-
+<br><br>
 
 ### Requirement guideline:
 ---
