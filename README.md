@@ -8,13 +8,12 @@ X Education is an Education company that would like to increase its lead convers
 ### Business Goal:
 ---
 To find factors which would suffice the company’s objective of identifying potential leads and their sources to increase their lead conversion, thereby adding to their overall revenue. 
-
 <br><br>
 
 ### Requirement guideline:
 ---
 A logistic regression model with more than 80% conversion rate to assign was required to be built that would assign a lead score between 0 and 100 to each of the leads which would be used by the company to target potential leads.
-
+<br><br>
 
 
 ### Steps Followed:
@@ -27,6 +26,7 @@ Making Predictions <br>
 Model Evaluation <br>
 Prediction on test set <br>
 Observations/Recommendations 
+<br><br>
 
 
 ### Details of files given:
