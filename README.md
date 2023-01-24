@@ -2,7 +2,7 @@
 
 ### Problem Summary:
 ---
-X Education is an Education company as a company would like to increase its lead conversion rate higher than its current level which is 30% by filtering out its leads to find those with high potential.
+X Education is an Education company that would like to increase its lead conversion rate higher than its current level which is 30% by filtering out its leads to find those with high potential.
 
 ### Business Goal:
 ---
